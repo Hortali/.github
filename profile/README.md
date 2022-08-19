@@ -9,9 +9,10 @@ Códigos e scripts do desenvolvimento do projeto final da Academy.
            <a href="https://github.com/DeboraKass">
                 <img src="https://avatars.githubusercontent.com/u/83611317?v=4 " width="100px;" alt="Foto da Debs no GitHub"/><br>
                 <sub>
-                    <b>Deébora Kassardjian</b>
+                    <b>Débora Kassardjian</b>
                 </sub>
             </a>
+	 <p> Design </p>
         </td>
         </td>
 		    <td align="center">
@@ -21,6 +22,7 @@ Códigos e scripts do desenvolvimento do projeto final da Academy.
                     <b>Celso Muza</b>
                 </sub>
             </a>
+		<p> Product </p>
         </td>
         <td align="center">
          <a href="https://github.com/batistagc">
@@ -28,15 +30,17 @@ Códigos e scripts do desenvolvimento do projeto final da Academy.
                 <sub>
                     <b>Gabriel Batista</b>
                 </sub>
+		<p> Technical </p>
             </a>
         </td>
         <td align="center">
        <a href="https://github.com/Gui25Reis">
                 <img src="https://avatars1.githubusercontent.com/u/48360732" width="100px;" alt="Foto do Gui Reis no GitHub"/><br>
                 <sub>
-                    <b>Guilherme Reis</b>
+                    <b>Gui Reis</b>
                 </sub>
             </a>
+		 <p> Technical </p>
         </td>
         <td align="center">
             <a href="https://github.com/Letchern">
@@ -45,6 +49,7 @@ Códigos e scripts do desenvolvimento do projeto final da Academy.
                     <b>Leticia Chern</b>
                 </sub>
             </a>
+		 <p> Design </p>
         </td>
         <td align="center">
 <a href="https://github.com/thallissousa">
@@ -53,6 +58,7 @@ Códigos e scripts do desenvolvimento do projeto final da Academy.
                     <b>Thallis Sousa</b>
                 </sub>
             </a>
+		 <p> Technical </p>
         </td>
     </tr>
 </table>
