@@ -1,5 +1,7 @@
 [![Licença](https://img.shields.io/badge/licença-GNU%20v3.0-brightgreen?)](https://github.com/Super-Macro/Analise-Dados-Pesquisas/blob/main/LICENSE)
 
+![Capa](https://github.com/Super-Macro/Hortali-App/blob/main/Files/Images/Git-Capa.png)
+
 Hortali é um proejto cirado pela turma da Academy 2020-2022 com o obetivo de mapear as hortas comunitárias na grande São Paulo, mosntrando algumas imagens dos locais, como chegar, horários de funcionamento e outras informações. Além das hortas é possível ver informações sobre alguns alimentos do nosso dia a dia: os nutrientes que possuem, sasonalidade, tipo do alimento (legume, verduras..).
 
 Esse projeto é open source. Nssa organização contém os principais recursos do projeto!
