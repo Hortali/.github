@@ -1,6 +1,8 @@
 [![Licença](https://img.shields.io/badge/licença-GNU%20v3.0-brightgreen?)](https://github.com/Super-Macro/Analise-Dados-Pesquisas/blob/main/LICENSE)
 
-Códigos e scripts do desenvolvimento do projeto final da Academy.
+Hortali é um proejto cirado pela turma da Academy 2020-2022 com o obetivo de mapear as hortas comunitárias na grande São Paulo, mosntrando algumas imagens dos locais, como chegar, horários de funcionamento e outras informações. Além das hortas é possível ver informações sobre alguns alimentos do nosso dia a dia: os nutrientes que possuem, sasonalidade, tipo do alimento (legume, verduras..).
+
+Esse projeto é open source. Nssa organização contém os principais recursos do projeto!
 
 ## Time
 <table>
@@ -12,7 +14,7 @@ Códigos e scripts do desenvolvimento do projeto final da Academy.
                     <b>Débora Kassardjian</b>
                 </sub>
             </a>
-	 <p> Design </p>
+	        <p> Design </p>
         </td>
         </td>
 		    <td align="center">
@@ -22,16 +24,16 @@ Códigos e scripts do desenvolvimento do projeto final da Academy.
                     <b>Celso Muza</b>
                 </sub>
             </a>
-		<p> Product </p>
+		    <p> Product </p>
         </td>
         <td align="center">
          <a href="https://github.com/batistagc">
-                <img src="https://avatars.githubusercontent.com/u/51222064?v=4" width="100" alt="Foto de perfil do GitHub do Gabriel"/><br>
+                <img src="https://avatars.githubusercontent.com/u/51222064?v=4" width="100" alt="Foto de perfil do Gabriel no GitHub"/><br>
                 <sub>
                     <b>Gabriel Batista</b>
                 </sub>
-		<p> Technical </p>
             </a>
+            <p> Technical </p>
         </td>
         <td align="center">
        <a href="https://github.com/Gui25Reis">
@@ -49,17 +51,16 @@ Códigos e scripts do desenvolvimento do projeto final da Academy.
                     <b>Leticia Chern</b>
                 </sub>
             </a>
-		 <p> Design </p>
+		    <p> Design </p>
         </td>
         <td align="center">
-<a href="https://github.com/thallissousa">
-                <img src="https://avatars.githubusercontent.com/u/77726310?v=4" width="100" alt="Foto de perfil do GitHub do Thallis"/><br>
+        <a href="https://github.com/thallissousa">
+                <img src="https://avatars.githubusercontent.com/u/77726310?v=4" width="100" alt="Foto de perfil do Thallis no GitHub"/><br>
                 <sub>
                     <b>Thallis Sousa</b>
                 </sub>
             </a>
-		 <p> Technical </p>
+		    <p> Technical </p>
         </td>
     </tr>
 </table>
-
